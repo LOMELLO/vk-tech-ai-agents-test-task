@@ -1,0 +1,9 @@
+build/
+build-san/
+service/ghreport
+service/.ghreport-cache/
+.ghreport-cache/
+__pycache__/
+.pytest_cache/
+*.pyc
+.DS_Store
